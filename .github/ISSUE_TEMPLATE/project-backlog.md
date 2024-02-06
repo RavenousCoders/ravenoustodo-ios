@@ -2,7 +2,7 @@
 name: Project Backlog
 about: Create a backlog for this project
 title: ''
-labels: ''
+labels: 'For: App, Priority: Medium, Type: Enhancement'
 assignees: ''
 
 ---
